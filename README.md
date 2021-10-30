@@ -1,0 +1,4 @@
+- 👋 Hi, I’m azah
+- 👀 I’m interested in reading and horse riding
+- 🌱 I’m currently learning swiftUI, combine these topics related to my work as an iOS engineer
+- 📫 You can reach me on (https://www.linkedin.com/in/azah-hosny-416626114)
